@@ -1,0 +1,17 @@
+# OS clutter
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*~
+
+# Logs and local env
+*.log
+.env
+.env.*
